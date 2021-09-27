@@ -1,0 +1,12 @@
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: Start test public:5:public_define_1.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: Test public:5:public_define_1 is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: End test public:5:public_define_1.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: Start test public:17:public_if_else_while.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: Test public:17:public_if_else_while is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: End test public:17:public_if_else_while.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: Start test public:22:public_main.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: Test public:22:public_main is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: End test public:22:public_main.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: Start test public:26:public_stmt_fail_basic.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: Test public:26:public_stmt_fail_basic is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#06 I: End test public:26:public_stmt_fail_basic.

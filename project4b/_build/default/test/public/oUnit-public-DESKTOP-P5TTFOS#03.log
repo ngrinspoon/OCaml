@@ -1,0 +1,18 @@
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Start test public:2:public_expr_fail.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Test public:2:public_expr_fail is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: End test public:2:public_expr_fail.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Start test public:7:public_assign_1.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Test public:7:public_assign_1 is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: End test public:7:public_assign_1.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Start test public:10:public_notequal.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Test public:10:public_notequal is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: End test public:10:public_notequal.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Start test public:15:public_exp_3.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Test public:15:public_exp_3 is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: End test public:15:public_exp_3.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Start test public:20:public_nested_ifelse.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Test public:20:public_nested_ifelse is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: End test public:20:public_nested_ifelse.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Start test public:25:public_test_3.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: Test public:25:public_test_3 is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#03 I: End test public:25:public_test_3.

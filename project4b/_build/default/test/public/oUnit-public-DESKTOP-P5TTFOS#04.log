@@ -1,0 +1,18 @@
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Start test public:3:public_stmt_basic.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Test public:3:public_stmt_basic is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: End test public:3:public_stmt_basic.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Start test public:6:public_define_2.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Test public:6:public_define_2 is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: End test public:6:public_define_2.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Start test public:12:public_less.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Test public:12:public_less is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: End test public:12:public_less.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Start test public:16:public_ifelse.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Test public:16:public_ifelse is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: End test public:16:public_ifelse.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Start test public:21:public_nested_while.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Test public:21:public_nested_while is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: End test public:21:public_nested_while.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Start test public:27:public_stmt_fail_control.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: Test public:27:public_stmt_fail_control is successful.
+2020-11-16T02:17:58+00:00 DESKTOP-P5TTFOS#04 I: End test public:27:public_stmt_fail_control.
