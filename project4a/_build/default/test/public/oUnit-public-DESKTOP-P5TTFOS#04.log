@@ -1,0 +1,12 @@
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: Start test public:3:public_equal.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: Test public:3:public_equal is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: End test public:3:public_equal.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: Start test public:9:public_if_else_while.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: Test public:9:public_if_else_while is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: End test public:9:public_if_else_while.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: Start test public:14:public_nested_while.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: Test public:14:public_nested_while is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: End test public:14:public_nested_while.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: Start test public:21:public_while.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: Test public:21:public_while is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#04 I: End test public:21:public_while.

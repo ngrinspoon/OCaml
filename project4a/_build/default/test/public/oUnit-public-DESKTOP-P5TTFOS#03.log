@@ -1,0 +1,12 @@
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: Start test public:2:public_define1.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: Test public:2:public_define1 is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: End test public:2:public_define1.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: Start test public:6:public_greater.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: Test public:6:public_greater is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: End test public:6:public_greater.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: Start test public:12:public_nested_if.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: Test public:12:public_nested_if is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: End test public:12:public_nested_if.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: Start test public:20:public_assoc1.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: Test public:20:public_assoc1 is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#03 I: End test public:20:public_assoc1.

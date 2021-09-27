@@ -1,0 +1,14 @@
+(** @canonical P4a.Lexer *)
+module Lexer = P4a__Lexer
+
+(** @canonical P4a.Parser *)
+module Parser = P4a__Parser
+
+(** @canonical P4a.SmallCTypes *)
+module SmallCTypes = P4a__SmallCTypes
+
+(** @canonical P4a.TokenTypes *)
+module TokenTypes = P4a__TokenTypes
+
+(** @canonical P4a.Utils *)
+module Utils = P4a__Utils

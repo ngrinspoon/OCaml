@@ -1,0 +1,12 @@
+2020-11-07T18:44:34+00:00 DESKTOP-P5TTFOS#01 I: Start test public:0:public_assign1.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#01 I: Test public:0:public_assign1 is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#01 I: End test public:0:public_assign1.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#01 I: Start test public:7:public_if.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#01 I: Test public:7:public_if is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#01 I: End test public:7:public_if.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#01 I: Start test public:11:public_main.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#01 I: Test public:11:public_main is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#01 I: End test public:11:public_main.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#01 I: Start test public:18:public_test3.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#01 I: Test public:18:public_test3 is successful.
+2020-11-07T18:44:35+00:00 DESKTOP-P5TTFOS#01 I: End test public:18:public_test3.
